@@ -1,0 +1,12 @@
+#dils.damri.co.id Versi 2
+## [2.0.0] 24-06-2021 - (release)
+### Added
+- Generate No urut di Bukti Tanda Terima Kiriman Barang
+- Menu Transfer
+- Optimized Query tbl history to tbl individuals
+
+### Changed
+- Skema ambil data
+
+### Removed
+- none.
