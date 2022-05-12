@@ -7,9 +7,6 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	// 'hostname' => '127.0.0.1',
-	// 'username' => 'damri',
-	// 'password' => 'damri',
 	'hostname' => 'localhost',
 	'username' => 'admin',
 	'password' => '123456',
